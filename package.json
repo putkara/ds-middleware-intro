@@ -11,6 +11,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/putkara/ds-middleware-intro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/putkara/ds-middleware-intro/issues"
+  },
+  "homepage": "https://github.com/putkara/ds-middleware-intro#readme"
 }
